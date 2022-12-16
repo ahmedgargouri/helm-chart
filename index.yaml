@@ -10,5 +10,5 @@ entries:
     type: application
     urls:
     - test-chart-0.1.0.tgz
-    version: 0.1.0
+    version: 0.2.0
 generated: "2022-12-16T12:09:53.681231633Z"
